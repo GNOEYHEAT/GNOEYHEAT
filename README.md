@@ -13,7 +13,7 @@
 
 <h3 align='center'> 📬 How to reach me: ...</h3>
 <p align='center'>
-  <a href='mailto:taehyeong93@korea.ac.kr'><img src='https://img.shields.io/badge/-Gmail-critical'><br>
+  <a href='mailto:taehyeong93@korea.ac.kr'><img src='https://img.shields.io/badge/-Gmail-critical'>
     </p>
 
 <!--
