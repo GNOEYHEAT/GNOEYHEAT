@@ -1,4 +1,20 @@
-### Hi there 👋
+<h2 align='center'> Hi there 👋 </h2>
+
+<h3 align='center'> 💻 Tech Stack 💻 </h3>
+<p align='center'>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=PyTorch Lightning&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+</p>
+
+<h3 align='center'> 📬 How to reach me: ...</h3>
+<p align='center'>
+  <a href='mailto:taehyeong93@korea.ac.kr'><img src='https://img.shields.io/badge/-Gmail-critical'><br>
+    </p>
 
 <!--
 **GNOEYHEAT/GNOEYHEAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
