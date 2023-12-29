@@ -2,6 +2,11 @@
 
 ### 🤗 [Curriculum Vitae](https://github.com/GNOEYHEAT/GNOEYHEAT/blob/main/cv_%EA%B9%80%ED%83%9C%ED%98%95_231213.pdf)
 
+<h2 align='center'> About me </h2>
+
+* 🔥
+* 🌱 My research interests include **Vision and Language Pre-Trained Models** and **Large Language Model**.
+
 <h3 align='center'> 💻 Tech Stack 💻 </h3>
 <p align='center'>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -18,13 +23,14 @@
   <a href='mailto:taehyeong93@korea.ac.kr'><img src='https://img.shields.io/badge/-Gmail-critical'><br>
     </p>
 
-* 🌱 My research interests include **Vision and Language Pre-Trained Models** and **Large Language Model**.
+<h3 align='center'> 🏆 Awards and Honors 🏆 </h3>
+
+![dacon_231229](https://github.com/GNOEYHEAT/GNOEYHEAT/assets/42865570/c85c7fd1-727e-4b71-925a-f62f18e2eea1)
 
 <!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
@@ -33,4 +39,4 @@
 
 
 
-![dacon_231229](https://github.com/GNOEYHEAT/GNOEYHEAT/assets/42865570/c85c7fd1-727e-4b71-925a-f62f18e2eea1)
+
