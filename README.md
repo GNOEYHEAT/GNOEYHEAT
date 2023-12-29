@@ -1,6 +1,6 @@
 <h1 align='center'> Taehyeong Kim 👋 </h1>
+<h2 align='center'> 🤗 [Curriculum Vitae](https://github.com/GNOEYHEAT/GNOEYHEAT/blob/main/cv_%EA%B9%80%ED%83%9C%ED%98%95_231213.pdf) </h2>
 
-🤗 [Curriculum Vitae](https://github.com/GNOEYHEAT/GNOEYHEAT/blob/main/cv_%EA%B9%80%ED%83%9C%ED%98%95_231213.pdf)
 
 <h2 align='center'> Hi there 👋 </h2>
 
