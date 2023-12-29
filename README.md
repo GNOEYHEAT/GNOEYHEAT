@@ -6,7 +6,10 @@
 
 * 🔥
 * 🌱 My research interests include **Vision and Language Pre-Trained Models** and **Large Language Model**.
-* 📧 How to reach me <a href='mailto:taehyeong93@korea.ac.kr'><img src='https://img.shields.io/badge/-Gmail-critical'>
+* 📧 How to reach me
+<p align='center'>
+  <a href='mailto:taehyeong93@korea.ac.kr'><img src='https://img.shields.io/badge/-Gmail-critical'><br>
+    </p>
 
 <h3 align='center'> 💻 Tech Stack 💻 </h3>
 <p align='center'>
@@ -19,10 +22,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align='center'> 📧 How to reach me: ...</h3>
-<p align='center'>
-  <a href='mailto:taehyeong93@korea.ac.kr'><img src='https://img.shields.io/badge/-Gmail-critical'><br>
-    </p>
 
 <h3 align='center'> 🏆 Awards and Honors 🏆 </h3>
 
