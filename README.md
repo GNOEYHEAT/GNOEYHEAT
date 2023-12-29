@@ -8,7 +8,7 @@
 * 🌱 My research interests include **Vision and Language Pre-Trained Models** and **Large Language Model**.
 * 📧 How to reach me <a href='mailto:taehyeong93@korea.ac.kr'><img src='https://img.shields.io/badge/-Gmail-critical'>
 
-<h3 align='center'> 💻 Tech Stack 💻 </h3>
+<h2 align='center'> 💻 Tech Stack 💻 </h2>
 <p align='center'>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
@@ -20,7 +20,7 @@
 </p>
 
 
-<h3 align='center'> 🏆 Awards and Honors 🏆 </h3>
+<h2 align='center'> 🏆 Awards and Honors 🏆 </h2>
 
 ![dacon_231229](https://github.com/GNOEYHEAT/GNOEYHEAT/assets/42865570/c85c7fd1-727e-4b71-925a-f62f18e2eea1)
 
