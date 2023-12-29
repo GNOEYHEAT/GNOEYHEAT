@@ -2,14 +2,6 @@
 
 ### 🤗 [Curriculum Vitae](https://github.com/GNOEYHEAT/GNOEYHEAT/blob/main/cv_%EA%B9%80%ED%83%9C%ED%98%95_231213.pdf)
 
-<h2 align='center'> Curriculum Vitae </h2>
-
-
-
-
-
-<h2 align='center'> Hi there 👋 </h2>
-
 <h3 align='center'> 💻 Tech Stack 💻 </h3>
 <p align='center'>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
