@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🤗 [Curriculum Vitae](https://github.com/GNOEYHEAT/GNOEYHEAT/files/13791564/cv_231213.pdf)
+🤗 [Curriculum Vitae](https://github.com/GNOEYHEAT/GNOEYHEAT/blob/main/cv_%EA%B9%80%ED%83%9C%ED%98%95_231213.pdf)
 
 ![dacon_231229](https://github.com/GNOEYHEAT/GNOEYHEAT/assets/42865570/c85c7fd1-727e-4b71-925a-f62f18e2eea1)
