@@ -18,6 +18,8 @@
   <a href='mailto:taehyeong93@korea.ac.kr'><img src='https://img.shields.io/badge/-Gmail-critical'><br>
     </p>
 
+🌱 My research interests include **Vision and Language Pre-Trained Models** and **Large Language Model**.
+
 <!--
 
 - 🔭 I’m currently working on ...
