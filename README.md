@@ -6,7 +6,7 @@
 
 * 🔥
 * 🌱 My research interests include **Vision and Language Pre-Trained Models** and **Large Language Model**.
-* 📧 How to reach me
+* 📧 <a href='mailto:taehyeong93@korea.ac.kr'><img src='https://img.shields.io/badge/-Gmail-critical'>
 <p align='center'>
   <a href='mailto:taehyeong93@korea.ac.kr'><img src='https://img.shields.io/badge/-Gmail-critical'><br>
     </p>
