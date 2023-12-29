@@ -4,7 +4,7 @@
 
 <h2 align='center'> 😄 About me 😄 </h2>
 
-* 🔥
+* 🔥 I am interested in **artificial intelligence** and **data science**.
 * 🌱 My research interests include **Vision and Language Pre-Trained Models** and **Large Language Model**.
 * 📧 How to reach me <a href='mailto:taehyeong93@korea.ac.kr'><img src='https://img.shields.io/badge/-Gmail-critical'>
 
