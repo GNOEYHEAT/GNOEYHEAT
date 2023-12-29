@@ -19,20 +19,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
 </p>
 
-
 <h2 align='center'> 🏆 Awards and Honors 🏆 </h2>
 
 #### [DACON](https://dacon.io/myprofile/189223/home)
 
 ![dacon_231229](https://github.com/GNOEYHEAT/GNOEYHEAT/assets/42865570/c85c7fd1-727e-4b71-925a-f62f18e2eea1)
-
-<!--
-
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
