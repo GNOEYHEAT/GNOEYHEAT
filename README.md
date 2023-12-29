@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[cv_김태형_231213.pdf](https://github.com/GNOEYHEAT/GNOEYHEAT/files/13791561/cv_._231213.pdf)
+![dacon_231229](https://github.com/GNOEYHEAT/GNOEYHEAT/assets/42865570/c85c7fd1-727e-4b71-925a-f62f18e2eea1)
