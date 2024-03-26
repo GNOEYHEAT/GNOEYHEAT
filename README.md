@@ -23,4 +23,4 @@
 
 #### [DACON](https://dacon.io/myprofile/189223/home)
 
-![dacon_231229](https://github.com/GNOEYHEAT/GNOEYHEAT/assets/42865570/c85c7fd1-727e-4b71-925a-f62f18e2eea1)
+![image](https://github.com/GNOEYHEAT/GNOEYHEAT/assets/42865570/315734fe-17a9-4b88-811e-f5133bdbf276)
