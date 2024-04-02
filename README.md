@@ -16,8 +16,8 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>&nbsp
 </p>
 
 <h2 align='center'> 🏆 Awards and Honors 🏆 </h2>
