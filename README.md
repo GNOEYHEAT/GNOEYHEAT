@@ -27,6 +27,6 @@
 
 ![image](https://github.com/GNOEYHEAT/GNOEYHEAT/assets/42865570/315734fe-17a9-4b88-811e-f5133bdbf276)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GNOEYHEAT&theme=radical&hide_border=true"/><br><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GNOEYHEAT&theme=radical&hide_border=true"/>
 
 ![GNOEYHEAT's github stats](https://github-readme-stats.vercel.app/api?username=GNOEYHEAT&show_icons=true&theme=tokyonight)
