@@ -25,7 +25,7 @@
 
 #### [DACON](https://dacon.io/myprofile/189223/home)
 
-![image](https://github.com/GNOEYHEAT/GNOEYHEAT/assets/42865570/e265b415-09b6-417a-818b-99f280910e1d)
+![image](https://github.com/GNOEYHEAT/GNOEYHEAT/assets/42865570/7b786b97-5edc-49ea-96a8-d46ff2008e61)
 
 <!--
 ![GNOEYHEAT's github stats](https://github-readme-stats.vercel.app/api?username=GNOEYHEAT&show_icons=true&theme=tokyonight)
