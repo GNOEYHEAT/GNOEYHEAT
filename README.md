@@ -1,6 +1,6 @@
 <h1 align='center'> Taehyeong Kim 👋 </h1>
 
-### 🤗 [Curriculum Vitae](https://github.com/user-attachments/files/18814420/cv_.pdf)
+### 🤗 [Curriculum Vitae](cv_김태형.pdf)
 
 <h2 align='center'> 😄 About me 😄 </h2>
 
