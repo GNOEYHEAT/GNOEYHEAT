@@ -6,7 +6,7 @@
 
 * 🔥 I am interested in **artificial intelligence** and **data science**.
 * 🌱 My research interests include **Vision-Language Model** and **Large Language Model**.
-* 📧 How to reach me <a href='mailto:taehyeong93@korea.ac.kr'><img src='https://img.shields.io/badge/-Gmail-critical'>
+* 📧 How to contact me <a href='mailto:taehyeong93@korea.ac.kr'><img src='https://img.shields.io/badge/-Gmail-critical'>
 
 <h2 align='center'> 💻 Tech Stack 💻 </h2>
 <p align='center'>
